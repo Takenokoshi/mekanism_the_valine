@@ -1,0 +1,23 @@
+{
+    "type": "mekanism:reaction",
+    "duration": 1,
+    "energy_required": 1000,
+    "fluid_input": {
+        "amount": 1,
+        "tag": "minecraft:water"
+    },
+    "chemical_input": {
+        "amount": 1,
+        "chemical": "mekanism_the_valine:the_incomparable_valine"
+    },
+    "chemical_output": {
+        "amount": 10000,
+        "id": "mekanism_the_valine:the_incomparable_valine"
+    },
+    "item_input": {
+        "item": "mekanism:bio_fuel"
+    },
+    "item_output": {
+        "id": "mekanism:bio_fuel"
+    }
+}

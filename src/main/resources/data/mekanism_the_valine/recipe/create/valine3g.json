@@ -1,0 +1,15 @@
+{
+    "type": "mekanism:chemical_infusing",
+    "left_input": {
+        "amount": 1,
+        "chemical": "mekanism:fissile_fuel"
+    },
+    "output": {
+        "amount": 2,
+        "id": "mekanism_the_valine:valine3g"
+    },
+    "right_input": {
+        "amount": 1,
+        "chemical": "mekanism:ethene"
+    }
+}

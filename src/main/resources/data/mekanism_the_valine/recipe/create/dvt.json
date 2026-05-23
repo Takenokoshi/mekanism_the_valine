@@ -1,0 +1,15 @@
+{
+    "type": "mekanism:chemical_infusing",
+    "left_input": {
+        "amount": 50,
+        "chemical": "mekanism_the_valine:valine3g"
+    },
+    "output": {
+        "amount": 1,
+        "id": "mekanism_the_valine:deuterium_valine3g_tritium"
+    },
+    "right_input": {
+        "amount": 10,
+        "chemical": "mekanismgenerators:fusion_fuel"
+    }
+}
