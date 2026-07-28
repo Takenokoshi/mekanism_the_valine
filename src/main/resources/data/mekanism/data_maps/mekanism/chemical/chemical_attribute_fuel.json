@@ -1,0 +1,24 @@
+{
+    "values": {
+        "mekanism_the_valine:valine3g": {
+            "burn_time": 2,
+            "energy": 57729
+        },
+        "mekanism_the_valine:saltless_dried_soysouce": {
+            "burn_time": 200,
+            "energy": 4382750
+        },
+        "mekanism_the_valine:soysauce": {
+            "burn_time": 1,
+            "energy": 51
+        },
+        "mekanism_the_valine:deuterium_valine3g_tritium": {
+            "burn_time": 10,
+            "energy": 2147483647
+        },
+        "mekanism_the_valine:the_incomparable_valine": {
+            "burn_time": 1,
+            "energy": 9223372036854775807
+        }
+    }
+}
