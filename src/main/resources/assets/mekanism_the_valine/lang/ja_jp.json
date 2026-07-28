@@ -1,7 +1,7 @@
 {
-    "chemical.mekanism_the_valine.valine3g": "バリン3g",
-    "chemical.mekanism_the_valine.saltless_dried_soysouce": "無水無塩大豆塩水",
-    "chemical.mekanism_the_valine.soysauce": "醬油",
-    "chemical.mekanism_the_valine.deuterium_valine3g_tritium": "DVT燃料",
-    "chemical.mekanism_the_valine.the_incomparable_valine": "ザ・桁違いなバリン"
+    "gas.mekanism_the_valine.valine3g": "バリン3g",
+    "gas.mekanism_the_valine.saltless_dried_soysouce": "無水無塩大豆塩水",
+    "gas.mekanism_the_valine.soysauce": "醬油",
+    "gas.mekanism_the_valine.deuterium_valine3g_tritium": "DVT燃料",
+    "gas.mekanism_the_valine.the_incomparable_valine": "ザ・桁違いなバリン"
 }

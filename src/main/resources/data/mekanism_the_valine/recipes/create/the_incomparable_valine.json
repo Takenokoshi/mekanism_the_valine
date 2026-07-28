@@ -1,0 +1,15 @@
+{
+    "type": "mekanism:chemical_infusing",
+    "leftInput": {
+        "amount": 9223372036854775807,
+        "gas": "mekanism_the_valine:soysauce"
+    },
+    "output": {
+        "amount": 1,
+        "gas": "mekanism_the_valine:the_incomparable_valine"
+    },
+    "rightInput": {
+        "amount": 9223372036854775807,
+        "gas": "mekanism_the_valine:deuterium_valine3g_tritium"
+    }
+}

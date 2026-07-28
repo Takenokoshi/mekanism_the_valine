@@ -1,0 +1,23 @@
+{
+    "type": "mekanism:reaction",
+    "duration": 1,
+    "energyRequired": 10,
+    "fluidInput": {
+        "amount": 3642,
+        "tag": "minecraft:water"
+    },
+    "gasInput": {
+        "amount": 7,
+        "gas": "mekanism_the_valine:valine3g"
+    },
+    "gasOutput": {
+        "amount": 1000,
+        "gas": "mekanism_the_valine:saltless_dried_soysouce"
+    },
+    "itemInput": {
+        "amount": 32,
+        "ingredient": {
+            "item": "minecraft:hay_block"
+        }
+    }
+}

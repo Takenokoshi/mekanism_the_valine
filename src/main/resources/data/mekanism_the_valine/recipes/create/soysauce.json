@@ -1,0 +1,25 @@
+{
+    "type": "mekanism:reaction",
+    "duration": 1,
+    "energyRequired": 100,
+    "fluidInput": {
+        "amount": 100,
+        "tag": "forge:brine"
+    },
+    "gasInput": {
+        "amount": 1000,
+        "gas": "mekanism_the_valine:saltless_dried_soysouce"
+    },
+    "gasOutput": {
+        "amount": 1000,
+        "gas": "mekanism_the_valine:soysauce"
+    },
+    "itemInput": {
+        "ingredient": {
+            "item": "mekanism:pellet_antimatter"
+        }
+    },
+    "itemOutput": {
+        "item": "mekanism:pellet_antimatter"
+    }
+}
